@@ -1,6 +1,6 @@
 # pi-bark-reminder
 
-当 pi 的一次任务真正结束、进入 idle 状态后，通过 Bark 向 iPhone 发送提醒。
+当 pi 的一次任务真正结束、进入 idle 状态后，通过 [Bark](https://github.com/Finb/Bark) 向 iPhone 发送提醒。
 插件监听 `agent_settled`，因此自动重试、自动压缩和排队的后续消息全部处理完毕后才会通知。
 
 ## 安装
