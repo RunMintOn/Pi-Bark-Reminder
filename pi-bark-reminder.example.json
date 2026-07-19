@@ -1,0 +1,8 @@
+{
+  "defaultEnabled": false,
+  "barkEndpoint": "https://api.day.app/YOUR_BARK_KEY",
+  "barkLevel": "timeSensitive",
+  "barkGroup": "pi",
+  "barkSound": "",
+  "barkTimeoutSeconds": 15
+}
